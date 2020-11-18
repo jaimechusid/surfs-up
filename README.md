@@ -9,6 +9,7 @@ After conducting this analysis, I have gathered the following results:
 - The minimum temperature is 64 in June and 56 in December
 - The maximum temperature is 85 in June and 83 in December
 The full summary statistics for both June and December are shown below.
+
 ![June Temps](june_temps.png)
 ![December Temps](dec_temps.png)
 
